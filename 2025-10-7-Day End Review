@@ -1,0 +1,53 @@
+
+# Expansion slots-used to install various components (network card, sound card,) 
+	PCI Slots
+	PCI X
+	**PCI E- Used today. Flavors: 1x 2x 4x 8x 16x 
+Data cable ports- (IDE cable port/rippit cable)-Plugs into hard drive 
+Platform Controller HUB replaced CHIPSET 
+**North bridge (Now embedded into CPU) - connected to CPU**
+
+ and **south bridge** WAS replaced by ***Platform controller*** 
+
+# CHIP- Control different functions also stores certain things. Many chips have been reduced to CHIPSET, they control data flow between the processor, 
+
+# BIOS vs UEFI - Firmware is Hardware with Software embedded in it!
+Bios IS THE Firmware of program that comes with your motherboard - Hardware and Software based 
+
+# CMOS Chip 
+	- *UEFI (NEW) Sunset old BIOS,* has a user friendly interface, can recognize larger storage views, built in feature to stop potential threats unsigned drivers from loading and helps to stop malicious software, such as rootkits called SECURE BOOT 
+
+32bit vs 64bit (is better) 
+RAM Storage 
+
+INTEL and AMB are the top manufacture of processors (CPUs)
+
+	- All the components talk through what's called Computer Buses think of these as data lines that carry information through the motherboard . They include a power lines and control line
+	- Bus- carries data from one location to another
+	 
+	- System Bus-Data Bus- carries data RAM USB 
+	- Address Bus- 8 wires = 8 bits, contains memory address, travels in 1 direction only unilateral 
+	- Control bus- controls signals, monitors signals, used by CPU to communicate with devices 
+
+	- Internal Bus- enables comm. Between internal com
+	- External bus- a;;ows comm w/ 
+
+	- Parallel bus
+
+	- Expansion bus- connects cpu and pci 
+
+*STORAGE- persistent.*
+	-  Can be internal and external. 
+	- Technology VS Interface 
+# Technology inside of storage 
+	- Magnetic storing and retrieving data/ plater (Hard Disc Drive) connected to mother board with cables (interface)
+		--Blue tooth, CD, DVD, Blue ray
+	- Solid State-(BEST USED) No plate no magnet no movement (Solid State Drive)
+	- Hybrid (seen a lot in the cloud environment) Drive with magnet and solid state chips in the inside (Hard disc drive)
+
+	- # *Interface (connector/input)*
+	- PATA-parallel (IDE) Ribbon cable that connects from storage to motherboard 
+	- SCSI- Ribbon cable that can connect multiple drives 
+	- SATA- (SERIAL)- SMALLER faster 
+	- -NVME- Solid State (Nonvolatile memory express) eliminates cable and placed directly on the mother board. Most used. 5xs faster (2TB)  M.2- SSD
+ -USB-solid state 
