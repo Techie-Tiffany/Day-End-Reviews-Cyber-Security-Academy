@@ -1,0 +1,92 @@
+
+
+I have been in a tizzy with these commands and balancing my personal life being a mom and wife.
+Catching up on my day end-reviews :)
+
+## Basic Commands  
+
+### 1. `cd` (Change Directory)  
+   - `cd /bin` → Move to the `bin` folder  
+   - `cd /` → Move to the root directory  
+   - `cd ~` → Return to the home directory  
+   - `cd ..` → Move up one level  
+
+### 2. `pwd`  
+   - Determines the directory you are currently in  
+
+### 3. `echo`  
+   - Used for redirecting (Create a file and put something in it)  
+
+### 4. `ls` (List)  
+   - `ls -l` → Long list format  
+   - `ls -a` → Show hidden files  
+   - `ls -al` → Long list including hidden files  
+   - `.` at the beginning of a file name means it is hidden  
+   - `ls -R` → List directories and subdirectories recursively  
+
+### 5. `/etc/`  
+   - Absolute path  
+
+### 6. `-n`  
+   - Used to number something  
+
+### 7. `head`  
+   - Displays the first few lines of a file  
+
+### 8. `tail`  
+   - Displays the last few lines of a file  
+
+### 9. `cat`  
+   - View the contents of a file  
+
+### 10. `touch`  
+   - Create an empty file (can override existing files)  
+
+### 11. `clear`  
+   - Clears the terminal screen  
+
+### 12. `>` (Overwrite)  
+   - Redirects and overwrites output  
+
+### 13. `>>` (Append)  
+   - Appends output to an existing file  
+
+### 14. `mkdir`  
+   - Creates a new directory  
+
+### 15. `mv`  
+   - Moves or renames files and directories  
+
+### 16. `cp`  
+   - Copies files and directories  
+
+### 17. `rm`  
+   - Removes files  
+
+### 18. `rmdir`  
+   - Removes empty directories  
+
+### 19. `which`  
+   - Finds the location of a command  
+
+---
+
+## Filtering  
+
+### How to delete a folder that is not empty:  
+   - `rmdir foldername/` → Removes an empty directory  
+   - `rm -R foldername/` → Recursively removes a directory and its contents  
+
+### Other Useful Commands:  
+   - `passwd` → Changes the user password  
+
+---
+
+## Key Concepts  
+
+- **Navigating the file system** with `cd` and `pwd`  
+- **Creating files and directories** with `touch` and `mkdir`  
+- **Listing contents** with `ls` and its options  
+- **Copying files and directories** with `cp`  
+- **Moving and renaming** with `mv`  
+- **Removing files and directories** with `rm` and `rmdir`  
